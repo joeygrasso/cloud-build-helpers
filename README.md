@@ -1,5 +1,5 @@
 # cloud-build-helpers
-Because sometimes you walk all the way around the world backwards to take a step forwards.
+Because sometimes you walk all the way around the world backwards to take a step forward.
 
 This repo contains workarounds, helpers, and hacks for doing things the stubborn way. The helpers here are not meant to be used long term and are intended to buy time for a more complete solution, but we all know how that goes.
 
