@@ -1,4 +1,4 @@
-# GKE Whitelist Helper
+# GKE Networks Helper
 This helper will add and remove the external IP of a Cloud Build instance to the Master Authorized Networks list of a specified GKE cluster. The helper can be used to allow Cloud Build to execute `kubectl` commands without allowing the entire GCE range or a broader IP range.
 
 ## Behavior
